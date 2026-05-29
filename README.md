@@ -6,9 +6,22 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-raghavendra-a626752b3)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulraghavendra.raja@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahulraghavendrar)
+### Connect with me
+
+<a href="https://linkedin.com/in/rahul-raghavendra-a626752b3">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:rahulraghavendra.raja@gmail.com">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="40" height="40" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/rahulraghavendrar">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" />
+</a>
+
+<br/>
+
 ![Visitors](https://komarev.com/ghpvc/?username=rahulraghavendrar&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
@@ -99,12 +112,6 @@ currently  : Building CricketIQ-X 🏏
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulraghavendrar&theme=tokyo-night&hide_border=true&area=true)](https://github.com/rahulraghavendrar)
 
 </div>
-
----
-
-## ✨ Beyond Code
-
-🥋 Black Belt in Karate & Kobudo — Tournament medalist &nbsp;|&nbsp; 🎵 10 years of Carnatic music
 
 ---
 
