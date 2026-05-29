@@ -1,89 +1,58 @@
-# Hi 👋, I'm Rahul Raghavendra
+<h1 align="center">Hi 👋, I'm Rahul Raghavendra</h1>
 
-🎓 B.Tech Computer Science (IoT) @ Shiv Nadar University Chennai
+<h3 align="center">
+AI • Full Stack • IoT • Embedded Systems
+</h3>
 
-🤖 AI/ML Enthusiast | Full Stack Developer | IoT Engineer | Embedded Systems Learner
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=B.Tech+Computer+Science+(IoT);AI+Engineer+in+Progress;Full+Stack+Developer;Building+Intelligent+Systems;Cloud+%26+Embedded+Systems+Enthusiast;Exploring+Generative+AI+and+Agentic+Systems" />
+</p>
 
-🚀 Building AI-powered applications, intelligent systems, and scalable cloud solutions.
+<p align="center">
+<a href="https://www.linkedin.com/in/rahul-raghavendra-a626752b3/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=3B82F6&width=850&lines=AI+Engineer+in+Progress;Full+Stack+Developer;IoT+and+Embedded+Systems+Enthusiast;Building+Production+Ready+Applications;Exploring+Generative+AI+and+Agentic+Systems)](https://git.io/typing-svg)
+<a href="mailto:rahulraghavendra.raja@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
----
-
-## 💡 About Me
-
-- 🎓 B.Tech Computer Science (IoT), Shiv Nadar University Chennai
-- 🤖 Interested in Generative AI, Agentic AI and LLM Applications
-- ☁️ Building cloud-native applications using Azure and Terraform
-- 💰 Exploring AI-powered FinTech solutions
-- 🌐 Interested in solving real-world IoT and Embedded Systems problems
-- ⚙️ Designing a RISC-V Processor using Verilog HDL
-- 🏏 Currently building CricketIQ-X, an AI-powered cricket analytics platform
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 AI Powered Calorie & Fitness Tracking Platform
-
-AI-powered conversational fitness assistant built using React, FastAPI, PostgreSQL, Gemini AI and Docker.
-
-🔗 Repository: https://github.com/rahulraghavendrar/ai-fitness-tracker
+<a href="https://github.com/rahulraghavendrar">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
 
 ---
 
-### 🏏 CricketIQ-X
+# 🚀 ABOUT ME
 
-AI-powered cricket analytics platform providing match insights, player analysis, performance tracking, predictive analytics, and intelligent cricket statistics visualization.
+### **🎓 B.Tech Computer Science (IoT) @ Shiv Nadar University Chennai**
 
-🔗 Repository: https://github.com/rahulraghavendrar/cricketiq-x
+### **🤖 Interested in Generative AI, Agentic AI and LLM Applications**
 
----
+### **☁️ Building cloud-native applications using Azure, Docker and Terraform**
 
-### 💰 Robo Advisor Investment Platform
+### **💰 Exploring AI-powered FinTech solutions**
 
-Production-ready fintech platform with FastAPI, React, Azure, Terraform and financial analytics.
+### **🌐 Passionate about solving real-world IoT and Embedded Systems problems**
 
-🔗 Repository: https://github.com/rahulraghavendrar/robo-advisor
+### **⚙️ Designing a RISC-V Processor using Verilog HDL**
 
----
-
-### ⚡ RISC-V Processor Design using Verilog HDL
-
-Custom processor implementation with instruction encoding, ALU design, register operations and Verilog simulation.
-
-🔗 Repository: https://github.com/rahulraghavendrar/riscv-verilog-processor
+### **🏏 Currently building CricketIQ-X, an AI-powered cricket analytics platform**
 
 ---
 
-### 🚗 Vehicle Telemetry System
+# 📜 CERTIFICATIONS
 
-RTOS-based IoT vehicle monitoring system with GPS tracking, diagnostics and Python dashboard.
-
-🔗 Repository: https://github.com/rahulraghavendrar/Vehicle-Telemetry-system
-
----
-
-## 📜 Certifications
-
-### Gen AI Bootcamp – BuildFastWithAI (June 2025 – August 2025)
+### 🎓 Gen AI Bootcamp — BuildFastWithAI (June 2025 – August 2025)
 
 **Skills & Concepts Learnt**
 
-- Large Language Models (LLMs)
-- Prompt Engineering
-- Chatbot Development
-- Retrieval Augmented Generation (RAG)
-- Fine Tuning
-- Multimodal AI
-- Agentic AI
-- AI Automation
-- Gen AI Coding Techniques
-- Model Context Protocol (MCP)
+`LLMs` • `Prompt Engineering` • `Chatbot Development` • `RAG` • `Fine Tuning` • `Multimodal AI` • `Agentic AI` • `AI Automation` • `Gen AI Coding Techniques` • `MCP`
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 TECH STACK
 
 ### Languages
 
@@ -91,19 +60,13 @@ RTOS-based IoT vehicle monitoring system with GPS tracking, diagnostics and Pyth
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql,postgresql" />
 </p>
 
-### AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-### Backend Development
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,flask" />
 </p>
 
-### Frontend Development
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
@@ -118,47 +81,87 @@ RTOS-based IoT vehicle monitoring system with GPS tracking, diagnostics and Pyth
 ### Embedded Systems & IoT
 
 <p>
-<img src="https://skillicons.dev/icons?i=arduino" />
+<img src="https://skillicons.dev/icons?i=arduino,linux" />
 </p>
 
+### Other Technologies
+
 ```text
-Verilog HDL • RTOS • IoT • Embedded C • Computer Architecture
+Verilog HDL • RTOS • Gemini AI • Computer Architecture • Embedded C
 ```
 
 ---
 
-## 📊 GitHub Statistics
+# 🚀 FEATURED PROJECTS
 
-![](https://github-readme-stats.vercel.app/api?username=rahulraghavendrar&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=rahulraghavendrar&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulraghavendrar&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 📈 Contribution Activity
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=rahulraghavendrar&theme=tokyo-night)
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/rahul-raghavendra-a626752b3/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://github.com/rahulraghavendrar/cricketiq-x">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulraghavendrar&repo=cricketiq-x&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="mailto:rahulraghavendra.raja@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/rahulraghavendrar/ai-fitness-tracker">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulraghavendrar&repo=ai-fitness-tracker&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/rahulraghavendrar">
-<img src="https://skillicons.dev/icons?i=github" />
+<a href="https://github.com/rahulraghavendrar/robo-advisor">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulraghavendrar&repo=robo-advisor&theme=tokyonight&hide_border=true" />
 </a>
+
+<a href="https://github.com/rahulraghavendrar/riscv-verilog-processor">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulraghavendrar&repo=riscv-verilog-processor&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/rahulraghavendrar/Vehicle-Telemetry-system">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulraghavendrar&repo=Vehicle-Telemetry-system&theme=tokyonight&hide_border=true" />
+</a>
+
 </p>
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+# 📊 GITHUB ANALYTICS
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rahulraghavendrar&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulraghavendrar&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulraghavendrar&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 CONTRIBUTION GRAPH
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulraghavendrar&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🌐 CONNECT WITH ME
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/rahul-raghavendra-a626752b3/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:rahulraghavendra.raja@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=rahulraghavendrar&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
