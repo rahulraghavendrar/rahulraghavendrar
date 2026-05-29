@@ -57,50 +57,20 @@
 
 ### Tech Stack
 
-**`Languages`**&nbsp; — &nbsp;![38BDF8](https://img.shields.io/badge/-38BDF8-38BDF8?style=flat-square&color=38BDF8)
+<div align="left">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts&theme=dark" />
+![Languages](https://img.shields.io/badge/Languages-38BDF8?style=flat-square&logoColor=white)&nbsp; <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts&theme=dark" height="30"/>
 
-<br/>
+![Frontend](https://img.shields.io/badge/Frontend-F472B6?style=flat-square&logoColor=white)&nbsp; <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" height="30"/>
 
-**`Frontend`**&nbsp; — &nbsp;![F472B6](https://img.shields.io/badge/-F472B6-F472B6?style=flat-square&color=F472B6)
+![Backend](https://img.shields.io/badge/Backend-34D399?style=flat-square&logoColor=white)&nbsp; <img src="https://skillicons.dev/icons?i=fastapi,nodejs,flask&theme=dark" height="30"/>
 
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" />
+![AI / ML](https://img.shields.io/badge/AI%20%2F%20ML-FBBF24?style=flat-square&logoColor=white)&nbsp; <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" height="30"/> &nbsp;<img src="https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white" height="30"/>&nbsp;<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white" height="30"/>
 
-<br/>
+![Databases](https://img.shields.io/badge/Databases-A78BFA?style=flat-square&logoColor=white)&nbsp; <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" height="30"/>
 
-**`Backend`**&nbsp; — &nbsp;![34D399](https://img.shields.io/badge/-34D399-34D399?style=flat-square&color=34D399)
+![Cloud & DevOps](https://img.shields.io/badge/Cloud%20%26%20DevOps-FB923C?style=flat-square&logoColor=white)&nbsp; <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,git&theme=dark" height="30"/>
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,flask&theme=dark" />
+![Embedded & IoT](https://img.shields.io/badge/Embedded%20%26%20IoT-94A3B8?style=flat-square&logoColor=white)&nbsp; <img src="https://skillicons.dev/icons?i=arduino&theme=dark" height="30"/>&nbsp;<img src="https://img.shields.io/badge/Verilog%20HDL-5C6BC0?style=flat-square&logoColor=white" height="30"/>&nbsp;<img src="https://img.shields.io/badge/RTOS-263238?style=flat-square&logoColor=white" height="30"/>
 
-<br/>
-
-**`AI / ML`**&nbsp; — &nbsp;![FBBF24](https://img.shields.io/badge/-FBBF24-FBBF24?style=flat-square&color=FBBF24)
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-&nbsp;
-<img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" height="48"/>
-&nbsp;
-<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" height="48"/>
-
-<br/>
-
-**`Databases`**&nbsp; — &nbsp;![A78BFA](https://img.shields.io/badge/-A78BFA-A78BFA?style=flat-square&color=A78BFA)
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
-
-<br/>
-
-**`Cloud & DevOps`**&nbsp; — &nbsp;![FB923C](https://img.shields.io/badge/-FB923C-FB923C?style=flat-square&color=FB923C)
-
-<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,git&theme=dark" />
-
-<br/>
-
-**`Embedded & IoT`**&nbsp; — &nbsp;![94A3B8](https://img.shields.io/badge/-94A3B8-94A3B8?style=flat-square&color=94A3B8)
-
-<img src="https://skillicons.dev/icons?i=arduino&theme=dark" />
-&nbsp;
-<img src="https://img.shields.io/badge/Verilog%20HDL-5C6BC0?style=for-the-badge&logoColor=white" height="48"/>
-&nbsp;
-<img src="https://img.shields.io/badge/RTOS-263238?style=for-the-badge&logoColor=white" height="48"/>
+</div>
