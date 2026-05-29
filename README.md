@@ -143,16 +143,6 @@ Verilog HDL • RTOS • IoT • Embedded C • Computer Architecture
 
 ---
 
-## 🏆 Achievements
-
-- Adobe India Hackathon 2025 Participant
-- Smart India Hackathon 2024 Participant
-- Spectrum VITC 2025 Participant
-- Gen AI Bootcamp Graduate
-- Karate & Kobudo Black Belt
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
