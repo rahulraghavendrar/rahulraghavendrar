@@ -57,18 +57,66 @@
 
 ### Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,react,html,css,tailwind,fastapi,nodejs,flask,tensorflow,pytorch,postgres,mysql,mongodb,azure,docker,kubernetes,terraform,git,arduino&theme=dark&perline=24" />
+<table width="100%" border="0" cellspacing="0" cellpadding="12">
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=99999&pause=99999&color=38BDF8&vCenter=true&width=200&lines=Languages" />
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts&theme=dark&perline=6" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" height="28"/>
-&nbsp;
-<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" height="28"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Verilog%20HDL-5C6BC0?style=for-the-badge&logoColor=white" height="28"/>
-&nbsp;
-<img src="https://img.shields.io/badge/RTOS-263238?style=for-the-badge&logoColor=white" height="28"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=99999&pause=99999&color=F472B6&vCenter=true&width=200&lines=Frontend" />
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark&perline=6" />
 
 <br/><br/>
 
-<sub><b>Languages:</b> Python · C · C++ · Java · JS · TS &nbsp;|&nbsp; <b>AI/ML:</b> TensorFlow · PyTorch &nbsp;|&nbsp; <b>Frontend:</b> React · HTML · CSS · Tailwind &nbsp;|&nbsp; <b>Backend:</b> FastAPI · Node.js · Flask &nbsp;|&nbsp; <b>Databases:</b> PostgreSQL · MySQL · MongoDB &nbsp;|&nbsp; <b>Cloud & DevOps:</b> Azure · Docker · Kubernetes · Terraform &nbsp;|&nbsp; <b>Embedded:</b> Arduino · RTOS · Verilog HDL &nbsp;|&nbsp; <b>AI Tools:</b> Claude · ChatGPT</sub>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=99999&pause=99999&color=34D399&vCenter=true&width=200&lines=Backend" />
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,flask&theme=dark&perline=6" />
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=99999&pause=99999&color=FBBF24&vCenter=true&width=200&lines=AI+%2F+ML" />
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=6" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=99999&pause=99999&color=A78BFA&vCenter=true&width=200&lines=Databases" />
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark&perline=6" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=99999&pause=99999&color=FB923C&vCenter=true&width=200&lines=Cloud+%26+DevOps" />
+
+<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,git&theme=dark&perline=6" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=99999&pause=99999&color=94A3B8&vCenter=true&width=200&lines=Embedded+%26+IoT" />
+
+<img src="https://skillicons.dev/icons?i=arduino&theme=dark&perline=6" />
+&nbsp;
+<img src="https://img.shields.io/badge/Verilog%20HDL-5C6BC0?style=for-the-badge&logoColor=white" height="48"/>
+&nbsp;
+<img src="https://img.shields.io/badge/RTOS-263238?style=for-the-badge&logoColor=white" height="48"/>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=99999&pause=99999&color=CC785C&vCenter=true&width=200&lines=AI+Tools" />
+
+<img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" height="48"/>
+&nbsp;
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" height="48"/>
+
+</td>
+</tr>
+</table>
