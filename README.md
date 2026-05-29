@@ -20,7 +20,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" />
 </a>
 
-<br/>
+<br/><br/>
 
 ![Visitors](https://komarev.com/ghpvc/?username=rahulraghavendrar&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -30,14 +30,15 @@
 
 ## 🚀 About Me
 
-```yaml
-name       : Rahul Raghavendra
-university : Shiv Nadar University Chennai
-degree     : B.Tech Computer Science (IoT)
-cgpa       : 8.014 / 10.0
-interests  : [ Generative AI, Agentic AI, Full Stack, IoT, Embedded Systems ]
-currently  : Building CricketIQ-X 🏏
-```
+<div align="center">
+
+| | |
+|:---:|:---|
+| 🎓 | B.Tech Computer Science (IoT) · Shiv Nadar University Chennai |
+| 💡 | Generative AI · Agentic AI · Full Stack · IoT · Embedded Systems |
+| 🏏 | Currently building **[CricketIQ-X](https://github.com/rahulraghavendrar/cricketiq-x)** — AI-powered IPL tactical intelligence platform |
+
+</div>
 
 ---
 
@@ -69,13 +70,13 @@ currently  : Building CricketIQ-X 🏏
 
 <div align="center">
 
-| Project | Stack | Status |
-|---|---|---|
-| 🏏 **[CricketIQ-X](https://github.com/rahulraghavendrar/cricketiq-x)** — AI-powered IPL tactical intelligence | FastAPI · React · XGBoost · PyTorch · Gemini AI | 🔨 Active |
-| ⚡ **[RISC-V Processor](https://github.com/rahulraghavendrar/riscv-verilog-processor)** — Custom CPU in Verilog HDL | Verilog · ModelSim · GTKWave | 🔨 Active |
-| 🤖 **[AI Fitness Tracker](https://github.com/rahulraghavendrar/ai-fitness-tracker)** — Conversational calorie & workout platform | React PWA · FastAPI · PostgreSQL · Gemini AI | ✅ Shipped |
-| 💰 **[Robo-Advisor](https://github.com/rahulraghavendrar/robo-advisor)** — Fintech investment platform | FastAPI · React · Azure AKS · Terraform | ✅ Shipped |
-| 🚗 **[Vehicle Telemetry](https://github.com/rahulraghavendrar/Vehicle-Telemetry-system)** — RTOS-based IoT monitoring | C · RTOS · Python · Tkinter | ✅ Shipped |
+| 🚀 Project | 🛠️ Stack |
+|:---|:---|
+| 🏏 **[CricketIQ-X](https://github.com/rahulraghavendrar/cricketiq-x)** — AI-powered IPL tactical intelligence | `FastAPI` `React` `XGBoost` `PyTorch` `Gemini AI` |
+| ⚡ **[RISC-V Processor](https://github.com/rahulraghavendrar/riscv-verilog-processor)** — Custom CPU in Verilog HDL | `Verilog` `ModelSim` `GTKWave` |
+| 🤖 **[AI Fitness Tracker](https://github.com/rahulraghavendrar/ai-fitness-tracker)** — Conversational calorie & workout platform | `React PWA` `FastAPI` `PostgreSQL` `Gemini AI` |
+| 💰 **[Robo-Advisor](https://github.com/rahulraghavendrar/robo-advisor)** — Fintech investment platform | `FastAPI` `React` `Azure AKS` `Terraform` |
+| 🚗 **[Vehicle Telemetry](https://github.com/rahulraghavendrar/Vehicle-Telemetry-system)** — RTOS-based IoT monitoring | `C` `RTOS` `Python` `Tkinter` |
 
 </div>
 
@@ -87,10 +88,10 @@ currently  : Building CricketIQ-X 🏏
 
 🎓 **Gen AI Bootcamp** · [BuildFastWithAI](https://buildfastwithai.com) · *Jun – Aug 2025*
 
-![LLMs](https://img.shields.io/badge/LLMs-1e293b?style=flat-square&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-1e293b?style=flat-square)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-1e293b?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-1e293b?style=flat-square)
-![Fine--Tuning](https://img.shields.io/badge/Fine--Tuning-1e293b?style=flat-square)
+![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-1e293b?style=flat-square)
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-1e293b?style=flat-square)
 ![Multimodal AI](https://img.shields.io/badge/Multimodal%20AI-1e293b?style=flat-square)
 ![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-1e293b?style=flat-square)
@@ -104,10 +105,8 @@ currently  : Building CricketIQ-X 🏏
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rahulraghavendrar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulraghavendrar&theme=tokyonight&hide_border=true" height="170" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulraghavendrar&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahulraghavendrar&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulraghavendrar&theme=tokyo-night&hide_border=true&area=true)](https://github.com/rahulraghavendrar)
 
