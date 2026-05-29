@@ -1,32 +1,30 @@
-<div align="center">
+<table width="100%">
+<tr>
+<td width="48%" valign="middle">
 
-# Rahul Raghavendra
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=2000&color=FFFFFF&vCenter=true&width=400&lines=Rahul+Raghavendra" alt="Name" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=B.Tech+CSE+(IoT)+%C2%B7+Shiv+Nadar+University+Chennai;Full+Stack+Developer+%7C+AI+%26+ML+Engineer;IoT+%26+Embedded+Systems+Builder;Generative+AI+%7C+Agentic+AI+%7C+LLM+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2200&pause=800&color=38BDF8&vCenter=true&width=420&lines=Full+Stack+Developer;AI+%26+ML+Engineer;IoT+%26+Embedded+Systems+Builder;Generative+AI+%7C+Agentic+AI+%7C+LLMs" alt="Roles" />
 
 <br/>
 
 **Connect with me**
 
 <a href="https://linkedin.com/in/rahul-raghavendra-a626752b3" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="mailto:rahulraghavendra.raja@gmail.com" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="32" height="32" alt="Gmail"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30" height="30"/>
 </a>
 
 <br/><br/>
 
 ![Visitors](https://komarev.com/ghpvc/?username=rahulraghavendrar&color=38bdf8&style=flat-square&label=Profile+Views)
 
-</div>
-
----
-
-<table width="100%">
-<tr>
-<td width="48%" valign="top">
+</td>
+<td width="4%"></td>
+<td width="48%" valign="middle">
 
 ### About Me
 
@@ -40,7 +38,15 @@
 
 [![cricketiq](https://img.shields.io/badge/Building_CricketIQ--X-1e293b?style=flat-square&logo=github&logoColor=34d399)](https://github.com/rahulraghavendrar/cricketiq-x)
 
+</td>
+</tr>
+</table>
+
 ---
+
+<table width="100%">
+<tr>
+<td width="48%" valign="top">
 
 ### Certification
 
@@ -67,11 +73,11 @@
 
 ### GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulraghavendrar&theme=tokyonight&hide_border=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=rahulraghavendrar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=contribs&show=reviews,prs_merged" height="155" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulraghavendrar&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" width="75%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulraghavendrar&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" width="72%" />
 
 </td>
 </tr>
@@ -87,10 +93,13 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/Verilog_HDL-5C6BC0?style=flat-square&logo=v&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/RTOS-263238?style=flat-square&logo=freertos&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white" height="28"/>
+&nbsp;
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white" height="28"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Verilog_HDL-5C6BC0?style=flat-square&logo=v&logoColor=white" height="28"/>
+&nbsp;
+<img src="https://img.shields.io/badge/RTOS-263238?style=flat-square&logo=freertos&logoColor=white" height="28"/>
 
 <br/><br/>
 
