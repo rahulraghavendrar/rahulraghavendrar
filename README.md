@@ -1,91 +1,62 @@
-<h2 align="center">Hi 👋, I'm Rahul Raghavendra</h2>
+<h1 align="center">Rahul Raghavendra</h1>
 
-<h4 align="center">
-AI • Full Stack • IoT • Embedded Systems
-</h4>
+<h3 align="center">
+Full Stack Development • IoT • Embedded Systems • Cloud Computing
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=AI+Engineer+in+Progress;Building+Intelligent+Systems;Generative+AI+%26+Agentic+AI;Cloud+%26+Embedded+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=B.Tech+Computer+Science+(IoT);Full+Stack+Developer;Building+Scalable+Applications;Cloud+and+Embedded+Systems+Enthusiast;Exploring+Computer+Architecture" />
 </p>
 
 ---
 
-<table>
-<tr>
+## ABOUT ME
 
-<td width="50%" valign="top">
-
-<h2>🚀 About Me</h2>
-
-<ul>
-<li>🎓 B.Tech Computer Science (IoT), Shiv Nadar University Chennai</li>
-<li>🤖 Generative AI, Agentic AI & LLM Applications</li>
-<li>☁️ Azure, Docker & Terraform</li>
-<li>🌐 IoT, Embedded Systems & Computer Architecture</li>
-<li>⚙️ Designing a RISC-V Processor using Verilog HDL</li>
-<li>🏏 Building CricketIQ-X</li>
-</ul>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h2>🛠 Tech Stack</h2>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,react,nodejs,fastapi,flask,mysql,postgres,azure,docker,terraform,githubactions,arduino,linux" height="42"/>
-</p>
-
-<p align="center">
-<b>Verilog HDL • RTOS • Gemini AI • IoT</b>
-</p>
-
-</td>
-
-</tr>
-</table>
+- **B.Tech Computer Science (IoT), Shiv Nadar University Chennai**
+- **Building cloud-native applications using Azure, Docker and Terraform**
+- **Interested in Full Stack Development, Embedded Systems and Computer Architecture**
+- **Designing a RISC-V Processor using Verilog HDL**
+- **Currently building CricketIQ-X**
 
 ---
 
-## ⚡ Featured Projects
+## TECH STACK
 
-| Project | Domain |
-|----------|----------|
-| 🏏 **CricketIQ-X** | AI Cricket Analytics |
-| 🤖 **AI Fitness Tracker** | Gemini AI |
-| 💰 **Robo Advisor** | FinTech |
-| ⚡ **RISC-V Processor** | Verilog HDL |
-| 🚗 **Vehicle Telemetry System** | IoT |
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,react,nodejs,fastapi,flask,mysql,postgres,azure,docker,terraform,githubactions,arduino,linux" />
+</p>
+
+<p align="center">
+<b>Verilog HDL • RTOS • Computer Architecture • Embedded C</b>
+</p>
+
+---
+
+## FEATURED PROJECTS
 
 <p align="center">
 
 <a href="https://github.com/rahulraghavendrar/cricketiq-x">
-<img src="https://img.shields.io/badge/🏏_CricketIQ--X-Repository-blue?style=for-the-badge"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulraghavendrar&repo=cricketiq-x&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/rahulraghavendrar/ai-fitness-tracker">
-<img src="https://img.shields.io/badge/🤖_AI_Fitness_Tracker-Repository-success?style=for-the-badge"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulraghavendrar&repo=ai-fitness-tracker&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/rahulraghavendrar/robo-advisor">
-<img src="https://img.shields.io/badge/💰_Robo_Advisor-Repository-orange?style=for-the-badge"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulraghavendrar&repo=robo-advisor&theme=tokyonight&hide_border=true" />
 </a>
-
-<br><br>
 
 <a href="https://github.com/rahulraghavendrar/riscv-verilog-processor">
-<img src="https://img.shields.io/badge/⚡_RISC--V-Repository-red?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/rahulraghavendrar/Vehicle-Telemetry-system">
-<img src="https://img.shields.io/badge/🚗_Vehicle_Telemetry-Repository-purple?style=for-the-badge"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulraghavendrar&repo=riscv-verilog-processor&theme=tokyonight&hide_border=true" />
 </a>
 
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## CONTRIBUTION ACTIVITY
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulraghavendrar&theme=tokyo-night&hide_border=true"/>
@@ -93,28 +64,17 @@ AI • Full Stack • IoT • Embedded Systems
 
 ---
 
-## 📜 Certifications
+## CERTIFICATIONS
 
-### 🎓 Gen AI Bootcamp — BuildFastWithAI
+### Gen AI Bootcamp — BuildFastWithAI
 
 **June 2025 – August 2025**
 
-**Skills & Concepts Learnt**
-
-- Large Language Models (LLMs)
-- Prompt Engineering
-- Chatbot Development
-- Retrieval Augmented Generation (RAG)
-- Fine Tuning
-- Multimodal AI
-- Agentic AI
-- AI Automation
-- Gen AI Coding Techniques
-- Model Context Protocol (MCP)
+Large Language Models (LLMs) • Prompt Engineering • Chatbot Development • Retrieval Augmented Generation (RAG) • Fine Tuning • Multimodal AI • Agentic AI • AI Automation • Gen AI Coding Techniques • Model Context Protocol (MCP)
 
 ---
 
-## 🌐 Connect With Me
+## CONNECT
 
 <p align="center">
 
