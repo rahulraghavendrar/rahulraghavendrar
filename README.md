@@ -57,66 +57,50 @@
 
 ### Tech Stack
 
-<table width="100%" border="0" cellspacing="0" cellpadding="12">
-<tr>
-<td width="50%" valign="top">
+**`Languages`**&nbsp; — &nbsp;![38BDF8](https://img.shields.io/badge/-38BDF8-38BDF8?style=flat-square&color=38BDF8)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=99999&pause=99999&color=38BDF8&vCenter=true&width=200&lines=Languages" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts&theme=dark&perline=6" />
+<br/>
 
-<br/><br/>
+**`Frontend`**&nbsp; — &nbsp;![F472B6](https://img.shields.io/badge/-F472B6-F472B6?style=flat-square&color=F472B6)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=99999&pause=99999&color=F472B6&vCenter=true&width=200&lines=Frontend" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark&perline=6" />
+<br/>
 
-<br/><br/>
+**`Backend`**&nbsp; — &nbsp;![34D399](https://img.shields.io/badge/-34D399-34D399?style=flat-square&color=34D399)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=99999&pause=99999&color=34D399&vCenter=true&width=200&lines=Backend" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,flask&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,flask&theme=dark&perline=6" />
+<br/>
 
-</td>
-<td width="50%" valign="top">
+**`AI / ML`**&nbsp; — &nbsp;![FBBF24](https://img.shields.io/badge/-FBBF24-FBBF24?style=flat-square&color=FBBF24)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=99999&pause=99999&color=FBBF24&vCenter=true&width=200&lines=AI+%2F+ML" />
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=6" />
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=99999&pause=99999&color=A78BFA&vCenter=true&width=200&lines=Databases" />
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark&perline=6" />
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=99999&pause=99999&color=FB923C&vCenter=true&width=200&lines=Cloud+%26+DevOps" />
-
-<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,git&theme=dark&perline=6" />
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=99999&pause=99999&color=94A3B8&vCenter=true&width=200&lines=Embedded+%26+IoT" />
-
-<img src="https://skillicons.dev/icons?i=arduino&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
 &nbsp;
-<img src="https://img.shields.io/badge/Verilog%20HDL-5C6BC0?style=for-the-badge&logoColor=white" height="48"/>
-&nbsp;
-<img src="https://img.shields.io/badge/RTOS-263238?style=for-the-badge&logoColor=white" height="48"/>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=99999&pause=99999&color=CC785C&vCenter=true&width=200&lines=AI+Tools" />
-
 <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" height="48"/>
 &nbsp;
 <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" height="48"/>
 
-</td>
-</tr>
-</table>
+<br/>
+
+**`Databases`**&nbsp; — &nbsp;![A78BFA](https://img.shields.io/badge/-A78BFA-A78BFA?style=flat-square&color=A78BFA)
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
+
+<br/>
+
+**`Cloud & DevOps`**&nbsp; — &nbsp;![FB923C](https://img.shields.io/badge/-FB923C-FB923C?style=flat-square&color=FB923C)
+
+<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,git&theme=dark" />
+
+<br/>
+
+**`Embedded & IoT`**&nbsp; — &nbsp;![94A3B8](https://img.shields.io/badge/-94A3B8-94A3B8?style=flat-square&color=94A3B8)
+
+<img src="https://skillicons.dev/icons?i=arduino&theme=dark" />
+&nbsp;
+<img src="https://img.shields.io/badge/Verilog%20HDL-5C6BC0?style=for-the-badge&logoColor=white" height="48"/>
+&nbsp;
+<img src="https://img.shields.io/badge/RTOS-263238?style=for-the-badge&logoColor=white" height="48"/>
