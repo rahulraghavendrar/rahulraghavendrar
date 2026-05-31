@@ -42,11 +42,11 @@
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=rahulraghavendrar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38bdf8&icon_color=f472b6&text_color=c4b5fd" height="165" />
+<img src="https://streak-stats.demolab.com?user=rahulraghavendrar&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F472B6&currStreakLabel=A78BFA&sideLabels=38BDF8&dates=6B7280" height="165" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulraghavendrar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c4b5fd&langs_count=6" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulraghavendrar&theme=tokyonight&exclude=" height="165" />
 
-<br/>
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahulraghavendrar/rahulraghavendrar/output/github-contribution-grid-snake-dark.svg" />
