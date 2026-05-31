@@ -18,22 +18,13 @@
 
 ### About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=C4B5FD&vCenter=true&width=550&lines=Generative+AI+%7C+Agentic+AI+%7C+LLM+Applications;IoT+%7C+Embedded+Systems+%7C+Full+Stack+Dev;Currently+working+on+CricketIQ-X+%F0%9F%8F%8F" alt="About cycling" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=C4B5FD&vCenter=true&width=600&lines=Generative+AI+%7C+Agentic+AI+%7C+LLM+Applications;IoT+%7C+Embedded+Systems+%7C+Full+Stack+Dev;Currently+working+on+CricketIQ-X+%F0%9F%8F%8F;%F0%9F%8E%93+Gen+AI+Bootcamp+%C2%B7+BuildFastWithAI+%C2%B7+Jun%E2%80%93Aug+2025;LLMs+%7C+RAG+%7C+Fine-Tuning+%7C+Agentic+AI+%7C+MCP" alt="About cycling" />
 
 <br/>
 
 ![](https://img.shields.io/badge/Generative%20AI%20%7C%20Agentic%20AI%20%7C%20LLMs-6d28d9?style=for-the-badge&logo=openai&logoColor=white)
 ![](https://img.shields.io/badge/IoT%20%7C%20Embedded%20%7C%20Full%20Stack-0e7490?style=for-the-badge&logo=raspberrypi&logoColor=white)
 [![](https://img.shields.io/badge/Currently%20working%20on%20CricketIQ--X-166534?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahulraghavendrar/cricketiq-x)
-
----
-
-### Certification
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2200&pause=700&color=6EE7B7&vCenter=true&width=550&lines=Gen+AI+Bootcamp+%C2%B7+BuildFastWithAI+%C2%B7+Jun+%E2%80%93+Aug+2025;LLMs+%7C+Prompt+Engineering+%7C+RAG+%7C+Fine-Tuning;Agentic+AI+%7C+Multimodal+AI+%7C+MCP+%7C+AI+Automation" alt="Cert cycling" />
-
-<br/>
-
 [![](https://img.shields.io/badge/Gen%20AI%20Bootcamp%20·%20BuildFastWithAI-065f46?style=for-the-badge&logo=googlecolab&logoColor=white)](https://buildfastwithai.com)
 
 <br/>
@@ -51,7 +42,17 @@
 
 ### GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulraghavendrar&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=f472b6&currStreakLabel=a78bfa" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=rahulraghavendrar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38bdf8&icon_color=f472b6&text_color=c4b5fd" height="165" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulraghavendrar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c4b5fd&langs_count=6" height="165" />
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahulraghavendrar/rahulraghavendrar/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahulraghavendrar/rahulraghavendrar/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/rahulraghavendrar/rahulraghavendrar/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 ---
 
