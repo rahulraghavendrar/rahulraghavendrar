@@ -42,9 +42,13 @@
 
 ### GitHub Stats
 
-<img src="https://raw.githubusercontent.com/rahulraghavendrar/rahulraghavendrar/main/stats-this-year.svg" height="165" />
-&nbsp;
-<img src="https://raw.githubusercontent.com/rahulraghavendrar/rahulraghavendrar/main/stats-languages.svg" height="165" />
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td><img src="https://raw.githubusercontent.com/rahulraghavendrar/rahulraghavendrar/main/stats-this-year.svg" height="165" /></td>
+<td width="8"></td>
+<td><img src="https://raw.githubusercontent.com/rahulraghavendrar/rahulraghavendrar/main/stats-languages.svg" height="165" /></td>
+</tr>
+</table>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahulraghavendrar/rahulraghavendrar/output/github-contribution-grid-snake-dark.svg" />
