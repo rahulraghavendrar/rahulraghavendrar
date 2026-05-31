@@ -44,7 +44,7 @@
 
 <img src="https://raw.githubusercontent.com/rahulraghavendrar/rahulraghavendrar/main/stats-this-year.svg" height="165" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulraghavendrar&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c4b5fd&langs_count=6&cache_seconds=86400" height="165" />
+<img src="https://raw.githubusercontent.com/rahulraghavendrar/rahulraghavendrar/main/stats-languages.svg" height="165" />
 
 <br/><br/>
 
