@@ -42,11 +42,9 @@
 
 ### GitHub Stats
 
-<img src="https://streak-stats.demolab.com?user=rahulraghavendrar&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F472B6&currStreakLabel=A78BFA&sideLabels=38BDF8&dates=6B7280" height="165" />
-&nbsp;
 <img src="https://raw.githubusercontent.com/rahulraghavendrar/rahulraghavendrar/main/stats-this-year.svg" height="165" />
 &nbsp;
-<img src="https://raw.githubusercontent.com/rahulraghavendrar/rahulraghavendrar/main/stats-last-year.svg" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulraghavendrar&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c4b5fd&langs_count=6&cache_seconds=86400" height="165" />
 
 <br/><br/>
 
