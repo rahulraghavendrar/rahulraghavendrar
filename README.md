@@ -44,7 +44,9 @@
 
 <img src="https://streak-stats.demolab.com?user=rahulraghavendrar&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F472B6&currStreakLabel=A78BFA&sideLabels=38BDF8&dates=6B7280" height="165" />
 &nbsp;
-<img src="https://raw.githubusercontent.com/rahulraghavendrar/rahulraghavendrar/main/stats.svg" height="165" />
+<img src="https://raw.githubusercontent.com/rahulraghavendrar/rahulraghavendrar/main/stats-this-year.svg" height="165" />
+&nbsp;
+<img src="https://raw.githubusercontent.com/rahulraghavendrar/rahulraghavendrar/main/stats-last-year.svg" height="165" />
 
 <br/><br/>
 
